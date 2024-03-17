@@ -1,5 +1,5 @@
 <img src="https://www.store-alamsyah.id/_next/image?url=%2Ficons%2FAOutlineWhite.webp&w=128&q=75" alt="Outlook" height="40">    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Outlook" height="40">
-# ALAMSYAH.ID | NETFLIX SUCKER V.1
+# ALAMSYAH.ID | NETFLIX SUCKER V.1 <a href="https://wa.me/6285172010009" target="_blank"><img src="https://img.shields.io/badge/IDR_199K_/Day-red" alt="Pricing" style="height: 20px;"></a>
 
 ## Usage Instructions
 
